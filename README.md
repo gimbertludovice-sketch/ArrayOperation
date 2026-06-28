@@ -105,5 +105,5 @@ ArrayOperation/
 
 ## 👨‍💻 Author
 
-**Your Name Here**  
-Course: *Data Structures / C Programming*
+**Gimbert Ludovice**  
+Course: *BSIT S/Mobile and Website Dev / C Programming*
